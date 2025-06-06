@@ -62,3 +62,19 @@ _by Mosh Hamedani_
 | 03:55:34  | Project 1: Automation with Python         |
 | 04:10:22  | Project 2: Machine Learning with Python   |
 | 04:58:37  | Project 3: Building a Website with Django |
+
+---
+
+## 💼 Project 1: Automation with Python
+
+**Tự động xử lý file Excel với thư viện `openpyxl`**
+
+### 🎯 Mục tiêu:
+
+- Đọc dữ liệu từ file `transactions.xlsx`.
+- Truy cập vào sheet `"Sheet1"`.
+- Lặp qua từng dòng dữ liệu:
+  - Tính toán giá mới (giảm 10%).
+  - Ghi kết quả vào cột mới.
+- Tạo biểu đồ cột (`BarChart`) từ dữ liệu đã chỉnh sửa.
+- Lưu file mới dưới tên `transactions2.xlsx`.
