@@ -69,7 +69,7 @@ _by Mosh Hamedani_
 
 **Tự động xử lý file Excel với thư viện `openpyxl`**
 
-### 🎯 Mục tiêu:
+### 🎯 Mục tiêu
 
 - Đọc dữ liệu từ file `transactions.xlsx`.
 - Truy cập vào sheet `"Sheet1"`.
